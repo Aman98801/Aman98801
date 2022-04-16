@@ -24,6 +24,8 @@
 
 - ⚡ Fun Fact : **I play game(mini militia) and Listening music .**
 
+- 👨‍💻 Feel Free to Contact with me.
+
 <hr>
 <br/>
 
@@ -75,6 +77,9 @@
 
 <br/>
 <br/>
+
+## Aman's Contribution Graph 📊
+<br>
 
 <a href="https://github.com/Aman98801/github-readme-activity-graph"><img alt="Aman Prajapat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aman98801&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
