@@ -10,11 +10,11 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I'm Aman Kumar. I'm from Indore.
-- 🌱 Currently, I'm pursuing bechelors in Computer science &   Engineering from CDGI, Indore.
+- 🌱 Currently, I'm pursuing Bachelors in Computer Science & Engineering from CDGI, Indore.
 
 - 🌱 I’m currently building up my **Problem Solving** skills.
   
-- 🌱 I’m also working on **Compititive Programming** on **Leet Code** Plateform mostly.
+- 🌱 I’m also working on **Competitive Programming** on **Leet Code** Platform mostly.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **amanprajapat98801@gmail.com**
 
-- ⚡ Fun fact **I play game(mini militia) and Listening music .**
+- ⚡ Fun Fact : **I play game(mini militia) and Listening music .**
 
 <hr>
 <br/>
